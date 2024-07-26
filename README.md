@@ -41,6 +41,11 @@
       <img src="https://github.com/user-attachments/assets/9aab8033-a8b9-48f0-957b-08ae68b9bcaa" style="width: 45%;" alt="Flowchart">
    </div>
 
+## Work flow
+ <div style="text-align: center;">
+      <img src="https://github.com/user-attachments/assets/bbafea65-be14-4bbe-89bd-13c3f6ba11f2" style="width: 45%;" alt="workflow">
+   </div>
+
 ## Frontend
 * โดยใช้ Arduin IoT Cloud เป็น frontend สามารถกด On/Off สามารถแสดงค่าสถานะของเซนเซอร์ และมีการแจ้งเตือนบอกถึงคุณภาพการนอนของผู้ใช้
    <div style="text-align: center;">
