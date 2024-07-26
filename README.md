@@ -12,7 +12,9 @@
 
 # Hardware
 * Schematic
+   * ![Em4Schematic](https://github.com/user-attachments/assets/590975db-cd00-4a90-b84b-9a49242a8344)
 * PCB
+  * 
 * ต่ออุปกรณ์ Sensor INMP441 , Sensor BH1750FVI
 
 # Flowchart
